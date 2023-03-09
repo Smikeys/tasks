@@ -298,6 +298,3 @@ export function duplicateQuestionInArray(
     newArray.splice(ind + 1, 0, duplicate);
     return newArray;
 }
-function elseif() {
-    throw new Error("Function not implemented.");
-}
